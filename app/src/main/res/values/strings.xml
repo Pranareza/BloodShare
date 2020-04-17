@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">BloodShare</string>
+    <string name="txtRegister">doesn"'"t have account ? <a href="Registrasi">&lt;font color="#FFFFFF">&lt;b>Register&lt;/b>&lt;font></a></string>
+    <string name="ActionBarRegister"><b>Register</b></string>
+
+
+    <string name="txtVerify">doesn"'"t get the code ?  &lt;font color="#FFFFFF">&lt;b>Resend&lt;/b>&lt;font></string>
+    <string name="ActionBarVerify"><b>Resend</b></string>
+
+
+    <string-array name="array_blood">
+        <item> Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>AB</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="array_rhesus">
+        <item>Rhesus</item>
+    </string-array>
+    <string-array name="array_job">
+        <item>Job</item>
+        <item>Wirausaha</item>
+        <item>Pedagang</item>
+    </string-array>
+</resources>
